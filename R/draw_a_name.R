@@ -3,10 +3,11 @@
 #'
 #' @param the_name
 #' @param the_sex
-#' @import ggplot
+#' @import ggplot2
 #' @import dplyr
 #' @import prenoms
 #' @import assertthat
+#'
 #' @return
 #' @export
 #'
