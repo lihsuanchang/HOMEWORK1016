@@ -10,6 +10,10 @@ vignette: >
 ---
 
 This is the homework of Katie Li-Hsuan CHANG for the R course due on 16 October 2017.
+```{r}
+library(HOMEWORK1016)
+```
+
 
 The function draw_a_name gives you the overview of how many people were using the name you want to look up:
 ```{r}
