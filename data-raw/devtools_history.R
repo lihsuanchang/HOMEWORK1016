@@ -4,4 +4,4 @@ devtools::use_package("ggplot2")
 devtools::use_package("prenoms")
 devtools::use_package("assertthat")
 devtools::use_package("readxl")
-
+devtools::use_vignette("HOMEWORK1016")
